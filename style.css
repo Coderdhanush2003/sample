@@ -1,0 +1,13 @@
+p{
+    font-size: 20px;
+    font-weight:400;
+}
+button{
+    padding: 2px 10px;
+}
+.cart{
+    background-color: yellow;
+}
+.buy{
+    background-color: orange;
+}
